@@ -1,5 +1,9 @@
 package com.tms.repositories;
 
-public class DriverRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.tms.entities.DriverEntity;
+
+public interface DriverRepository extends JpaRepository<DriverEntity,Integer>{
 
 }
