@@ -1,6 +1,6 @@
 package com.tms.entities;
 
-public class Drivers {
+public class DriverEntity {
 	private int id;
 	private String name;
 	private int salary;

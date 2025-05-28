@@ -1,4 +1,4 @@
-package com.tms.bos;
+package com.tms.dtos;
 
 public class CustomerDTO {
 	

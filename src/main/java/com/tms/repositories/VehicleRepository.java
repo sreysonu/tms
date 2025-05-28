@@ -1,4 +1,4 @@
-package com.tms.repository;
+package com.tms.repositories;
 
 public class VehicleRepository {
 

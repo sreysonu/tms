@@ -2,7 +2,7 @@ package com.tms.entities;
 
 import com.tms.enums.TypeOfVehicles;
 
-public class Vehicle {
+public class VehicleEntity {
 
 	private int id;
 	private String vehicleNumber;

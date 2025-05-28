@@ -1,4 +1,4 @@
-package com.tms.dto;
+package com.tms.dtos;
 
 public class DriverDto {
 	private String name;

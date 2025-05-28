@@ -2,7 +2,7 @@ package com.tms.entities;
 
 import com.tms.enums.Gender;
 
-public class Customer {
+public class CustomerEntity {
 	
 	private int id;
 	private String name;
